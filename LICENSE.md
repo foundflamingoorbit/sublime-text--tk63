@@ -1,4 +1,4 @@
-# 
+# exclusive Sublime Text for PC | Sublime Text for Windows Extension | markdown-preview + linting offers the most advanced Sublime Text for PC | Sublime Text for Windows extension,
 
 
 
